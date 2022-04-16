@@ -13,7 +13,7 @@ exports.getView = function () {
 	return {
 		"id": "sql",
 		"name": "SQL",
-		"factory": "editor",
+		"factory": "frame",
 		"region": "center-middle",
 		"label": "SQL",
 		"link": "../ide-sql/editor.html"
